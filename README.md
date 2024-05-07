@@ -1,4 +1,4 @@
-# MSkill Vertex Internship Major Project
+# Skill Vertex Internship Major Project
 ## Project : Recognizing Hardwritten Digits
 
 In this project we will discover the MNIST handwritten digit recognition problem and we will develop a deep learning model in Python using the Keras library that will be capable of achieving excellent results. Now some questions come to mind:
