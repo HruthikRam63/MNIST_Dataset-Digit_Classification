@@ -38,8 +38,8 @@ To run this code, you'll need the following libraries:
         
 Verify installation :
                    
-                   import numpy as np
-                   print(np.__version__)
+        import numpy as np
+        print(np.__version__)
 
 
 ## How to Run
