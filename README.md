@@ -52,7 +52,7 @@ Verify installation :
 
     Upload it to Visual Studio Code or Jupyter NoteBook & Run each cell of the file.
 
-## Evaluation 
-The model gets a loss of 0.005 and an accuracy of 99.994 while evaluating on the train set.
-As well as it gets a loss of 2.021 an accuracy of 97.979 while evaluating on the test data.
+## Evaluation & Outputs
+The model gets a loss of __0.005__ and an accuracy of __99.994__ while evaluating on the __train set__.
+As well as it gets a loss of __2.021__ an accuracy of __97.979__ while evaluating on the __test data__.
    
